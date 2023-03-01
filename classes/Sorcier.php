@@ -25,4 +25,3 @@ class Sorcier extends Monstre{
         return "Ton adversaire se soigne 30 pv";
     }
 }
-?>
