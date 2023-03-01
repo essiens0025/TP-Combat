@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'fight';
+    src: url('Fight!.otf') format('truetype');
+}
+
+.h1-index {
+    font-family: 'fight';
+    color: red;
+    font-size: 180px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.p-index {
+    font-family: 'fight';
+    font-size: 50px;
+    color: white;
+    margin-bottom: 30px;
+
+}
+
+.istat{
+    width: 50px;
+    height: 50px;
+}
